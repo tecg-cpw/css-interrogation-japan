@@ -47,3 +47,37 @@ table {
 	border-spacing: 0;
 }
 /*--- End reset ---*/
+body{
+    font-family: 'Alegreya', Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 2.5em; /*40/16*/
+    line-height: 1.2; /*48/40*/
+}
+h2{
+    font-size: 2em; /*32/16*/
+    margin-bottom: 0.3125em; /*10/32*/
+}
+h1,h2,h3{
+    font-weight: 700;
+    font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+    color:#412136;
+}
+img{
+    display: block;
+}
+.mainContent{
+    padding: 1.25em 5.333333333333334% 2em; /* 20/16 - (20/375)*100 - 32/16*/
+}
+.btn{
+    font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+    color:#412136;
+    font-size: 1.375em; /*22/16*/
+    background-color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 0.727272727272727em; /*16/22*/
+    border-radius:0.363636363636364em; /*8/22*/
+}
