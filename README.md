@@ -11,7 +11,7 @@ Avant de commencer l'intégration :
 ### Page d'accueil (index.html)
 ![Rendu de la page d'accueil](rendus/svg/Accueil.svg)
 ### Page détail (detail.html)
-- ![Rendu de la page détail](rendus/svg/Details.svg)
+![Rendu de la page détail](rendus/svg/Details.svg)
 
 ## Documentation
 Vous disposez de la documentation habituelle :
