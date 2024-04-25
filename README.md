@@ -7,6 +7,12 @@ Avant de commencer l'intégration :
 - Veillez à bien installer les polices qui se trouvent dans le dossier [fonts](./fonts/) sur votre machine.
 - Liez le fichier `reset.css` à toutes vos pages HTML.
 
+## Rendus
+### Page d'accueil (index.html)
+![Rendu de la page d'accueil](rendus/svg/Accueil.svg)
+### Page détail (detail.html)
+- ![Rendu de la page détail](rendus/svg/Details.svg)
+
 ## Documentation
 Vous disposez de la documentation habituelle :
 - Pocket Reference
